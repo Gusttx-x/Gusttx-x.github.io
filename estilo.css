@@ -1,4 +1,6 @@
 body{
-    background: yellow blueviolet;
+    /*background: yellow blueviolet;*/
+    background-image: linear-gradient(yellow, blueviolet);
+
     color: black;
 }
