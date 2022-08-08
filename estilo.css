@@ -1,8 +1,11 @@
 body{
     /*background: yellow blueviolet;*/
-    background-image: linear-gradient(blue, blueviolet);
+    background-image: linear-gradient(blue, rgb(133, 91, 172));
 
     color: black;
+    font-family: roboto ;
+    font-size: x-large;
+    text-align: center;
 }
 img{
     width:320px;
