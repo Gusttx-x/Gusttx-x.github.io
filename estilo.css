@@ -1,6 +1,7 @@
 body{
     /*background: yellow blueviolet;*/
-    background-image: linear-gradient(blue, rgb(133, 91, 172));
+    background-image: linear-gradient(black, rgb(230, 55, 192)
+    );
 
     color: black;
     font-family: roboto ;
